@@ -1,16 +1,16 @@
 # Predicting Diabetes using Machine Learning
 We're going to take following approach:
 
-1. Problem Definition
+## 1. Problem Definition
 The Pima Indians Diabetes Dataset involves predicting the onset of diabetes within 5 years in Pima Indians given medical details.
 
-2. Data
+## 2. Data
 Dataset link: https://machinelearningmastery.com/standard-machine-learning-datasets/
 
-3. Evaluation
+## 3. Evaluation
 If we can reach 95% accuracy at predicting the onset of diabetes within 5 years in Pima Indians.
 
-4. Features
+## 4. Features
 Information regarding features of data.
 
 Create data dictionary
